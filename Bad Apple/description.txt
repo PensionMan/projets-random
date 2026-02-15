@@ -6,3 +6,5 @@
 [2] - Lire ce fichier .json pour afficher la vidéo en redessinant chaque frame avec surface.SetDrawColor et surface.DrawRect, en fonction des données enregistrées.
 
 [3] - Jouer la piste audio séparément avec surface.PlaySound pour synchroniser le son avec l’affichage.
+
+Si vous voulez essayer chez vous envoyez moi un mp discord pour que je vous passe le fichier .json :)
