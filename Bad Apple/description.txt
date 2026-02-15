@@ -1,0 +1,8 @@
+				-- Le fameux "Bad Apple!!" mais dans Garry's Mod --
+
+
+[1] - Convertir une vidéo MP4 en données exploitables dans un fichier .json à l’aide d’un script en Go.
+
+[2] - Lire ce fichier .json pour afficher la vidéo en redessinant chaque frame avec surface.SetDrawColor et surface.DrawRect, en fonction des données enregistrées.
+
+[3] - Jouer la piste audio séparément avec surface.PlaySound pour synchroniser le son avec l’affichage.

@@ -1,0 +1,3 @@
+Ce projet propose un petit panel permettant de générer des labyrinthes de différentes tailles en utilisant l’algorithme de Recursive Backtracking (aussi appelé Depth-First Backtracking).
+
+On utilise ensuite l’algorithme A* pour le résoudre.
