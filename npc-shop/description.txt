@@ -1,0 +1,5 @@
+Je vous partage un petit vendeur d'armes super simple à configurer : il suffit de copier-coller l'exemple dans le sh_config et le vendeur se met à jour tout seul
+
+Côté technique, il est relié à une base de données. Petit détail : elle s'appelle encore 'POKEMON' parce que j'ai réutilisé ma DB de dev d'un ancien projet. J'ai évidemment intégré des sécurités de base contre les exploits (vérification de l'argent et de la distance pour éviter les achats à l'autre bout de la map)
+
+L'UI est assez sobre (je n'ai pas encore le coup de pinceau de Monet) mais le code est propre et montre que je peux m'adapter si on me donne une ligne directrice visuelle
